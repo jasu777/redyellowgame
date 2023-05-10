@@ -7,4 +7,4 @@ Pomysl inspirowany gra Connect four z Frontend Mentor
 
 -Zawodnik Yellow zaczyna 
 
--Czas rozgrywki jest mierzony do momentu az ktorys zawodnik ulozy cztery swoje kolory poziomo pionowo lub na ukos i tym sammy wygra 
+-Czas rozgrywki jest mierzony do momentu az ktorys z zawodnikow ulozy cztery swoje kolory poziomo pionowo lub na ukos i tym sammy wygra 
